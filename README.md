@@ -26,8 +26,9 @@ At School of Code, our team was challenged to build a RESTful API with a Dataset
 <h3><u>MVP</u></h3>
 
 - Convert Dataset from google sheets to json
-- GET requests to show all weapons & get weapons by ID
+- GET requests to show all weapons & get weapons by ID and name
 - POST request to add a new weapon
+- PATCH request to update a weapon
 
 
 <h3><u>Update 1 - MS2</u></h3>
