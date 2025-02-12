@@ -2,7 +2,7 @@
 
 <p align = "center"><b>Overview</b>: A Companion Webpage to aid any budding Skyrim adventurer, by searching through all the possible weapons they could obtain throughout the game, right here. </p>
 
-  <img align = "center" src="/readme-images/Skyrim-Weapons-Search-Front-End.PNG" alt="Owl & Multiple Choice Answers">
+  <img align = "center" src="/readme-images/Skyrim-Weapons-Search-Front-End.PNG" alt="Skyrim Weapons Table FE">
 
 ------------
 
@@ -29,6 +29,8 @@ At School of Code, our team was challenged to build a RESTful API with a Dataset
 - GET requests to show all weapons & get weapons by ID and name
 - POST request to add a new weapon
 - PATCH request to update a weapon
+
+  <img align = "center" src="/readme-images/Skyrim-WDS-API-fetch-table.PNG" alt="API fetch table">
 
 
 <h3><u>Update 1 - MS2</u></h3>
